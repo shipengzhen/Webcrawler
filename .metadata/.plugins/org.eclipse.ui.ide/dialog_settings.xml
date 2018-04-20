@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\Learning\Java\Webcrawler"/>
+			<item value="F:\Learning\Java\Maven\maven"/>
+			<item value="F:\Learning\Java\SpringBoot\SpringBoot-Maven"/>
+			<item value="F:\Learning\Java\IdeaProjects\web"/>
+			<item value="F:\Learning\Java\IdeaProjects\webcrawler"/>
+			<item value="F:\Learning\Java\MyEclipse 2017 CI Workspace\Tools"/>
+			<item value="F:\Learning\Java\MyEclipse 2017 CI Workspace"/>
+			<item value="F:\Learning\课件\基于SSH框架的企业级应用开发\Chapter09"/>
+			<item value="F:\Learning\Java\JSP\project\StudentManage"/>
+			<item value="F:\Learning\Java\SSH"/>
+			<item value="F:\Program Files\BaiduNetdiskDownload\第06节--Redis集群的高可用测试（含Jedis客户端的使用）"/>
+			<item value="F:\Learning\Java\SSM\Spring"/>
+			<item value="C:\Users\xiaomi\Downloads\springmvc"/>
+			<item value="F:\Learning\Java\SSM\Class_class"/>
+			<item value="F:\Learning\Java\JSP\项目\cz"/>
+			<item value="F:\Learning\Java\MyEclipse 2017 CI Workspace\generatorSqlmapCustom"/>
+			<item value="F:\Learning\Java\SSM\MyBatis\generatorSqlmapCustom"/>
+			<item value="F:\Learning\课件\使用SSM框架开发企业级应用\Chapter06\01 提供给教员的内容\02 上机练习参考答案\练习1：使用构造注入完成属性赋值\Chapter06_ex01"/>
+			<item value="F:\Learning\Java\SSM\MyBatis\MyBatis"/>
+			<item value="F:\Learning\课件\使用SSM框架开发企业级应用\Chapter06\01 提供给教员的内容\01 教学演示案例\示例1：使用构造注入（教材示例1-2）\example1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="630" key="DIALOG_X_ORIGIN"/>
+		<item value="280" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
